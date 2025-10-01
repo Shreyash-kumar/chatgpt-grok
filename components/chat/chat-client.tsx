@@ -356,7 +356,7 @@ export default function ChatClient({ chatId }: { chatId?: string }) {
             }
           />
           <p className="mt-2 text-xs text-muted-foreground text-center">
-            AI responses may be inaccurate. Verify important information.
+               AI responses may not always be perfect. Double-check anything important!
           </p>
         </div>
       </div>
